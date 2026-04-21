@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Description (Short - for GitHub / Resume)
+## 📌 Description
 
 **StudentHub** is a full-stack web platform designed to help students discover hackathons, internships, and curated learning resources in one place. It also enables students to collaborate by joining community groups, saving opportunities, and accessing AI-powered recommendations.
 
