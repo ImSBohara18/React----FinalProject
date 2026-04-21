@@ -229,12 +229,5 @@ It combines:
 
 ## 🧑‍💻 Author
 
-**Akshat Jain**
+**Shiv Bohara**
 Building towards high-impact student tech products 🚀
-
----
-
-# 🔥 One-Line Resume Description
-
-> Built a full-stack student opportunity platform using Next.js and Supabase with AI recommendations, user authentication, and community-driven features like upvotes, saves, and team collaboration.
-
