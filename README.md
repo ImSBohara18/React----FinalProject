@@ -230,4 +230,5 @@ It combines:
 ## 🧑‍💻 Author
 
 **Shiv Bohara**
+
 Building towards high-impact student tech products 🚀
